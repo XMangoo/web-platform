@@ -20,8 +20,6 @@ var MY_AVAILABLE_BTC ='MY_AVAILABLE_BTC';
 
 var PLATFORM = "PLATFORM";
 
-var server_uri = "http://poloniex.unionchain.org/rest/xchange";
-
 function exitSys() {
      exitLogin();
      window.location.href = 'signin.html';
